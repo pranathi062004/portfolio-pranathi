@@ -2,7 +2,7 @@
 
 ## Overview
 This is a professional personal portfolio built for the Gesix Solutions Sprint 01 Challenge. 
-It serves as a digital identity for Pranathi Shenoy, showcasing skills, projects, and professional background.
+The goal of this project was to build a high-performance, accessible, mobile-first portfolio that reflects professional frontend engineering standards.
 
 ## Live Demo
 https://pranathi-shenoy.vercel.app
