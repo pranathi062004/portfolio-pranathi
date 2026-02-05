@@ -5,7 +5,7 @@ This is a professional personal portfolio built for the Gesix Solutions Sprint 0
 It serves as a digital identity for Pranathi Shenoy, showcasing skills, projects, and professional background.
 
 ## Live Demo
-[Link to Live Site] (To be added after deployment)
+https://pranathi-shenoy.vercel.app/
 
 ## Tech Stack
 - **Framework**: React.js 18+ (via Vite)
