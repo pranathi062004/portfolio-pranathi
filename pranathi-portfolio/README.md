@@ -26,7 +26,7 @@ src/
 ## Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pranathi062004/portfolio.git
+   git clone https://github.com/pranathi062004/portfolio-pranathi.git
    ```
 2. Install dependencies:
    ```bash
